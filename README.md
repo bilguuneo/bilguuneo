@@ -1,16 +1,37 @@
-## Hi there 👋
+# Bilguun Erdene Ochir
 
-<!--
-**bilguuneo/bilguuneo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! 👋 My name is Bilguun Erdene Ochir, and I am a senior at the University of San Diego majoring in computer science with a minor in mathematics. I'm passionate about software development, artificial intelligence, and data science.
 
-Here are some ideas to get you started:
+## Languages
+- Python
+- Java
+- C++
+- SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Interests
+- Web Application Development
+- Artificial Intelligence
+- Data Science
+- System Administration
+
+## Courses
+### Computer Science
+- Data Structures & Algorithms
+- Probability & Statistics
+- Machine Learning
+- Object-Oriented Programming
+- Human-Centered Data Science
+- Artificial Intelligence Applications
+
+### Mathematics
+- Discrete Mathematics
+- Linear Algebra
+- Statistics
+- Calculus III
+- Calculus II
+- Calculus I
+
+## Contact Information
+📍 San Diego, CA 92110  
+📧 [berdeneochir@sandiego.edu](mailto:berdeneochir@sandiego.edu)  
+📞 (707) 302-4222
